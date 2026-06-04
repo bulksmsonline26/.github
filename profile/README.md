@@ -57,6 +57,4 @@ Transparent & honest : clear pricing, no hidden limits, real support
 
 📧 Email: help@bulksmsonline.com
 
-💬 Live chat on the website for instant help
-
-<p align="center"> <sub>Built with ❤️ by the BulkSMSOnline team</sub> </p> ```
+💬 Live chat on the website for instant help 
