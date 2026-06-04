@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BulkSMSOnline/.github/main/profile/banner.png" alt="BulkSMSOnline Banner" width="800" />
-</p>
-
 <h1 align="center">BulkSMSOnline</h1>
 <p align="center">
   <strong>Global Bulk SMS Platform : Web, REST API & HTTP API</strong><br>
