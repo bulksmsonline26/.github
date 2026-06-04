@@ -14,9 +14,6 @@
   <a href="https://github.com/BulkSMSOnline">
     <img src="https://img.shields.io/github/stars/BulkSMSOnline?style=flat-square" alt="GitHub Stars" />
   </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square" alt="License" />
-  </a>
 </p>
 
 ---
