@@ -12,7 +12,7 @@
   <a href="https://bulksmsonline.com">
     <img src="https://img.shields.io/badge/Website-bulksmsonline.com-blue?style=flat-square" alt="Website" />
   </a>
-  <a href="https://bulksmsonline.com/docs">
+  <a href="https://bulksmsonline.com/developers">
     <img src="https://img.shields.io/badge/Docs-API%20Reference-green?style=flat-square" alt="API Docs" />
   </a>
   <a href="https://github.com/BulkSMSOnline">
@@ -51,3 +51,19 @@ curl -X POST https://api.bulksmsonline.com/v1/sms \
         "message": "Hello from BulkSMSOnline!",
         "sender": "BulkSMS"
       }'
+
+🤝 Why choose us?
+Small team, big impact : direct access to the engineers who build the platform
+
+Reliable infrastructure : carrier‑grade delivery with 99.9% uptime
+
+Transparent & honest : clear pricing, no hidden limits, real support
+
+📫 Get in touch
+🌐 Website: bulksmsonline.com
+
+📧 Email: help@bulksmsonline.com
+
+💬 Live chat on the website for instant help
+
+<p align="center"> <sub>Built with ❤️ by the BulkSMSOnline team</sub> </p> ```
