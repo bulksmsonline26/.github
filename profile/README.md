@@ -20,7 +20,7 @@
 
 ## 🚀 What is BulkSMSOnline?
 
-A lightweight yet powerful bulk SMS platform built for **developers**, **marketers**, and **growing businesses**. Send thousands of messages instantly, track delivery in real time, and integrate using our modern REST APIs – all without telecom headaches.
+A lightweight yet powerful bulk SMS platform built for **developers**, **marketers**, and **growing businesses**. Send thousands of messages instantly, track delivery in real time, and integrate using our modern REST APIs, all without telecom headaches.
 
 ### ✨ Key Features
 
