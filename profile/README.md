@@ -53,7 +53,7 @@ Reliable infrastructure : carrier‑grade delivery with 99.9% uptime
 
 Transparent & honest : clear pricing, no hidden limits, real support
 
-📫 Get in touch
+## 📫 Get in touch
 🌐 Website: bulksmsonline.com
 
 📧 Email: help@bulksmsonline.com
