@@ -44,8 +44,9 @@ curl -X POST https://api.bulksmsonline.com/v1/sms \
         "message": "Hello from BulkSMSOnline!",
         "sender": "BulkSMS"
       }'
+```
 
-🤝 Why choose us?
+## 🤝 Why choose us?
 Small team, big impact : direct access to the engineers who build the platform
 
 Reliable infrastructure : carrier‑grade delivery with 99.9% uptime
