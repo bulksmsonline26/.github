@@ -143,6 +143,8 @@ Transparent & honest : clear pricing, no hidden limits, real support
 ## 📫 Get in touch
 🌐 Website: <a href="https://bulksmsonline.com">bulksmsonline.com</a>
 
+🔗 Other profiles : <a href="https://www.crunchbase.com/organization/bulksmsonline">CrunchBase</a> | <a href="https://rapidapi.com/user/bulksmsonline">RapidAPI</a> | <a href="https://medium.com/@BulkSMSOnline">Medium</a> | <a href="https://www.capterra.com/p/10045347/business-SMS-service/">Capterra</a> | <a href="https://www.producthunt.com/@bulksmsonline">ProductHunt</a>
+
 📧 Email: help@bulksmsonline.com
 
 💬 Live chat on the <a href="https://bulksmsonline.com">website</a> for instant help 
